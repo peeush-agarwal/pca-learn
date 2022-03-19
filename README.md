@@ -11,3 +11,9 @@ This repo contains notebooks to:
 This contains notebooks to:
 - [Implement LDA from scratch on WINE dataset](LDA/lda_from_scratch.ipynb)
 - [LDA using `scikit-learn` library](LDA/lda_w_sklearn.ipynb)
+
+## Tutorials
+
+### Tutorial 1: San Francisco Salary dataset
+
+- [PCA](Tutorial-1/Notebook/pca.ipynb)
